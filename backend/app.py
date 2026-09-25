@@ -56,7 +56,7 @@ def extract():
         # Kalau nanti butuh login (misal video Instagram privat/TikTok
         # yang dibatasi region), taruh file cookies.txt di folder ini
         # dan aktifkan baris di bawah:
-        # "cookiefile": "cookies.txt",
+        "cookiefile": "cookies.txt",
     }
 
     try:
